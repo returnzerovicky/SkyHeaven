@@ -21,9 +21,9 @@ Get your local weather with a touch of warmth and animation!
 ---
 
 ![Ghibli Weather Preview](assets/preview.png)
-![Ghibli Weather Preview0](assets/preview(0).png)
-![Ghibli Weather Preview1](assets/preview(1).png)
-![Ghibli Weather Preview2](assets/preview(2).png)
+![Ghibli Weather Preview0](assets/preview0.png)
+![Ghibli Weather Preview1](assets/preview1.png)
+![Ghibli Weather Preview2](assets/preview2.png)
 
 
 ---
@@ -38,12 +38,7 @@ Get your local weather with a touch of warmth and animation!
 
 ---
 
-## Live Demo 🚀
 
-Check out the live version here:  
-[https://sharmila1320.github.io/ghibli-weather-app/](https://sharmila1320.github.io/ghibli-weather-app/)
-
----
 
 ## How to Use 🛠️
 
@@ -56,6 +51,7 @@ Check out the live version here:
 ## Run Locally 💻
 
 ```bash
-git clone https://github.com/sharmila1320/ghibli-weather-app.git
-cd ghibli-weather-app
+git clone https://github.com/returnzerovicky/SkyHeaven.git
+cd Sky-Heaven-App
 # Open index.html in your browser
+
